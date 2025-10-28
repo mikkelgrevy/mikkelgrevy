@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Mikkel 👋
+Third semester IT-Technology student at EK (formerly KEA)
 
-<!--
-**mikkelgrevy/mikkelgrevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I learn by building - currently exploring security, automation, and infrastructure through practical projects and homelab experiments.
 
-Here are some ideas to get you started:
+🔧 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python automation scripts and security tools
+- IoT monitoring systems with security considerations
+- Homelab infrastructure (Proxmox, Docker, OPNsense)
+
+💻 Tech Stack
+
+Programming & Scripting:
+
+- Python (strongest area), Bash, SQL
+
+Infrastructure & Virtualization:
+
+- Proxmox, VMware, Hyper-V
+- Docker containers
+- Linux (Ubuntu, Debian) & Windows Server
+
+Security
+
+- SC-900 coursework (Cloud Security elective)
+- Network security basics
+- Learning penetration testing
+
+Networking
+
+- VLANs, routing, switching
+- Firewall configuration (OPNsense/pfSense)
+
+📚 Currently Learning
+
+- Application security and OWASP Top 10
+- Python for security automation
+- Cloud platforms and compliance
+
+📫 Get in Touch
+
+Email: mmgrevy@gmail.com
+Currently seeking IT internship (January-April 2026)
