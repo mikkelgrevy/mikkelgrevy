@@ -3,13 +3,13 @@ Third semester IT-Technology student at EK (formerly KEA)
 
 I learn by building - currently exploring security, automation, and infrastructure through practical projects and homelab experiments.
 
-🔧 What I'm Building
+What I'm Building
 
 - Python automation scripts and security tools
 - IoT monitoring systems with security considerations
 - Homelab infrastructure (Proxmox, Docker, OPNsense)
 
-💻 Tech Stack
+Tech Stack
 
 Programming & Scripting:
 
@@ -19,26 +19,23 @@ Infrastructure & Virtualization:
 
 - Proxmox, VMware, Hyper-V
 - Docker containers
-- Linux (Ubuntu, Debian) & Windows Server
+- Linux & Windows Server
 
 Security
 
-- SC-900 coursework (Cloud Security elective)
 - Network security basics
-- Learning penetration testing
+- Learning penetration testing - primarily Active Directory and Linux servers.
 
 Networking
 
 - VLANs, routing, switching
 - Firewall configuration (OPNsense/pfSense)
 
-📚 Currently Learning
+Currently Learning
 
 - Application security and OWASP Top 10
 - Python for security automation
 - Cloud platforms and compliance
 
-📫 Get in Touch
-
+Get in Touch
 Email: mmgrevy@gmail.com
-Currently seeking IT internship (January-April 2026)
